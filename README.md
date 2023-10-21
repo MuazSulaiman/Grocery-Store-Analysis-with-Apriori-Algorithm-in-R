@@ -10,4 +10,4 @@ What to Expect:
 - Practical applications of the Apriori algorithm in retail.
 - Insights to enhance inventory and sales strategies.
 
-Explore this repository to discover how the Apriori algorithm can revolutionize the grocery retail sector. Gain a better understanding of customer buying patterns and how it can be leveraged for business improvement.
+Explore this repository to discover how the Apriori algorithm can revolutionize the grocery retail sector. Gain a better understanding of customer buying patterns and how it can be leveraged for business improvement by reading the Project_Report or watching the Data Science Project Powerpoint.
